@@ -22,10 +22,7 @@ npm install
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+<img width="565" alt="Screenshot 2023-04-19 at 3 15 55 PM" src="https://user-images.githubusercontent.com/122936654/233211681-a230a0db-8ad9-479c-89a8-be9a5c4d0924.png">
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+below is a video showing functionality of app: 
+[Untitled_ Apr 19, 2023 3_13 PM.webm](https://user-images.githubusercontent.com/122936654/233211882-2b4adb3a-13e8-4efa-a905-cb234f339f69.webm)
